@@ -1,4 +1,45 @@
-    h1{color:blue}
-    h2{color:grey;font-size:small} 
-    img{width:500px;height:350px} 
-    p{color:red;text-align:justify}
+    h1{color:blue; text-align: center;
+    }
+
+    h2{color:grey;font-size:small
+    }
+
+    img{width:500px;height:350px
+    
+    }
+
+    section{color:brown
+    
+    }
+
+    body{margin: auto;
+        width: 500px;
+        background-color: rgb(243, 207, 159);
+    
+    }
+
+    h4{ text-align:right;
+
+    }
+
+    hr{
+        width: 500px;
+        height: 8px;
+        background-color:rgb(173, 228, 228);
+    }
+
+
+    
+
+
+
+
+    
+
+    
+
+    
+
+
+
+    

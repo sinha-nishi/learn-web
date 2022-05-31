@@ -1,31 +1,48 @@
-    h1{color:blue; text-align: center;
+    h1{
+        color:blue; text-align: center;
     }
 
-    h2{color:grey;font-size:small
+    h2{
+        color:grey;font-size:small
     }
 
-    img{width:500px;height:350px
+    img{
+        
+        width:500px;height:350px
     
     }
 
-    section{color:brown
+    section{
+        color:brown;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+        margin-left: 40px;
+        margin-right: 40px ;
+        
     
     }
 
     body{margin: auto;
         width: 500px;
-        background-color: rgb(243, 207, 159);
+        background-color:white;
+        border:solid rgba(255, 255, 255, 0.76)
+        
     
     }
 
     h4{ text-align:right;
 
+
     }
 
     hr{
-        width: 500px;
-        height: 8px;
-        background-color:rgb(173, 228, 228);
+        width: 600px;
+        height: 9px;
+        background-color:rgb(148, 226, 148)
+    }
+
+    image{
+           background-attachment: fixed;
+           background-size: cover;
     }
 
 

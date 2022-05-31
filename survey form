@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+    <head>
+        <title>survey form</title>
+        <link rel="stylesheet"href="mystyle.css">
+    </head>
+    <body>
+        <h1>survey form</h1>
+        <div class="survey"></div>
+        <label><b>Enter your name </b></label>
+        <input type="text" value="username " name="username" size="30" maxlength="50">
+    </body>
+
+</html>

@@ -1,5 +1,15 @@
+    
+   .container {
+float: flex;
+}
+    
+    
+    
     h1{
-        color:blue; text-align: center;
+        color:blue; 
+        text-align: center;
+        text-shadow: 2px 2px;
+        
     }
 
     h2{
@@ -8,6 +18,7 @@
 
     img{
         
+    
         width:500px;height:350px
     
     }
@@ -40,12 +51,17 @@
         background-color:rgb(148, 226, 148)
     }
 
-    image{
-           background-attachment: fixed;
-           background-size: cover;
+
+
+    html{
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
 
-
+    main{
+          margin-right: 40px;
+          margin-left: 40px;
+    }   
+    
     
 
 

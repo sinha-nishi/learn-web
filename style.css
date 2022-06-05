@@ -61,6 +61,16 @@ float: flex;
           margin-right: 40px;
           margin-left: 40px;
     }   
+
+
+    a.hover{
+             color:hotpink
+    }
+
+    ul{
+          list-style-type:circle;
+          list-style-position: inside;
+  }
     
     
 

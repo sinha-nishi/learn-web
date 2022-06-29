@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="greetform.css">
+        
+    </head>
+    <body id="main">
+        
+        <header>
+            <h1 onclick="alertheader()"><b>welcome</b></h1>
+        </header>
+
+    <div id="head">
+        <h2><b> Change background color here.</b></h2>
+        <ul>
+            <li id="pi" onclick="changebackgroundcolor()">pink</li>
+            <li id="or"onclick="myfunction()">orange</li>
+            <li id="lg" onclick="mychange()">light green</li>
+        </ul>
+    </div>
+    <br><br>
+    <form>
+        <div id="content">
+           <label><b>Enter your name:</b></label>
+            <input type="text" value="name" palceholder="name" required>
+        </div>
+        
+        
+        
+            <input id="greetme" type="button" value="Greet me" onclick="greet()">
+            
+            <input id="btn" type="button" value="back" onclick="back()">
+        
+      
+    
+    </form> 
+    
+    <script src="greet.js"></script>
+    </body>
+
+
+</html>

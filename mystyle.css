@@ -1,16 +1,20 @@
 h1{
-    color: rgba(212, 48, 48, 0.925);
+    color: rgba(114, 16, 16, 0.925);
     text-align: center;
     font-size: 70px;
+    text-shadow: 3px 3px 4px rgb(111, 111, 231) 
     
 
 }
     
 #content{
-    color: rgb(47, 196, 196);
+    color: black;
     margin:auto;
     padding:50px;
-    border:80px
+    border:80px;
+    font-size: 20px;
+    font-weight:bold;
+    font-style: italic;
     
 }
 
@@ -22,11 +26,17 @@ form{
 }
 
 body{
-    background:url(file:///C:/Users/sinha/Downloads/mountains-under-mist-morning-amazing-260nw-1725825019.webp);
     background-size: cover;
     background-attachment: fixed;
-    
+    margin: auto;
+    padding:80px;
+    border:50px;
+    background-color: rgb(240, 161, 133)
 }
+
+
+    
+
 
 input{
     background-color: rgb(231, 203, 165);
@@ -37,21 +47,48 @@ input{
 }
 
 #sub{
-    color: black;
-    background-color: green;
-}
-
-body{
-    margin: auto;
-    padding:80px;
-    border:50px
+    color: white;
+    background-color: brown;
 }
 
 
-.sub:hover{
+
+li{
+         display:inline;
+         border: solid blueviolet;
+         margin-right: 50px;
+         border-radius: 10px;
+         font-size: large;
          
-      color:hotpink
-            
 }
+   #a{
+       background-color:lightblue;
+   }    
+ 
+   #b{
+        background-color:pink
+   }
+
+   #c{
+        background-color:green
+   }
+
+
+   
+   #button{
+             background-color: rgb(115, 115, 185);
+             color:black;
+             position: relative;
+             float:right;
+   }
+
+
+            
+
+
+
+
+
+
 
 

@@ -1,0 +1,119 @@
+/*body{
+    margin:0;
+    margin-left: 6opx;
+    margin-right: 40px;
+    text-align: center;
+    margin-top: auto;
+    padding: 100px ;
+}*/
+
+
+
+
+
+h1{
+
+    font-size: 100px;
+    color:rgb(236, 11, 56);
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: 6px 7px black;
+    
+    
+}
+
+
+
+h2{
+      font-size: 50px;
+      color:lightseagreen;
+      text-shadow: 4px 4px 5px black 
+
+
+}
+
+
+
+
+
+li{
+     display: inline;
+     border:5px solid violet;
+     float: left;
+     margin-right:10px
+}
+
+#pi{
+     background-color: pink;
+}
+
+#or{
+      background-color: orange;
+}
+
+#lg{
+      background-color: lightgreen;
+}
+
+
+input{
+         border: 20px solid goldenrod;
+         margin: 60px;
+         
+         
+        
+         
+
+}
+
+
+
+
+
+#content{
+           border: 20px solid burlywood;
+           width:1000px;
+           margin-top: 30px;
+           background-color:darkcyan;
+           float: flex;
+           border-radius:40px;
+           margin-left: 350px;
+           box-shadow: 3px 3px rebeccapurple, 4px 4px 12px orchid
+           
+}
+
+
+#greetme{
+          border: 11px solid bisque;
+          font-size: medium;
+          font-weight: bold;
+          margin-left: 700px;
+          padding-left: 1px;
+
+          
+          
+}
+
+
+#btn{
+             margin-top: 10px;
+             margin-right: 4px;
+}
+
+
+    #greetme:hover{
+                     transition: 2s;
+                     transform: scale(1.5);
+                     color: royalblue;
+                     
+    }    
+    
+    
+#main{  
+       background-image: linear-gradient(blue,white,navajowhite);
+
+   }
+    
+    
+          

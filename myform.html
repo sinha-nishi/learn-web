@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="mystyle.css">
+</head>
+
+<body id="intro"onclick="greet()" >
+    <input id="button" type="button" value="back" onclick="back()">
+    <header>
+    <div>
+        
+        <h1 > change background color here</h1>
+        <ul>
+            <li id="a" onclick="changebackgroundcolor()"><b>lightblue</b></li>
+            <li id="b"onclick="myfunction()"><b>pink</b></li>
+            <li id="c"onclick="mychange()"><b>green</b></li>
+        </ul>
+        <h1 onclick="alertheader()">LOGIN</h1>
+        
+    </div>
+    </header>
+    <form name="myform" method="post" action="abc.jsp" onsubmit="return validateform()"  >
+        <div id="content">
+            <label><b>Enter your name: </b></label>
+            <input type="text" value="username " name="username" class="box" size="30" maxlength="50" required>
+            <br><br>
+            <label><b>password</b></label>
+            <input type="password" value="password" placeholder="password"required>
+            <br><br>
+            <label><b>confirm password</b></label>
+            <input type="password" value="password2" placeholder="confirm password"required>
+            <br><br>
+            <label><b>Enter your state:</b></label>
+            <select>
+                <option value="bihar">bihar</option>
+                <option value="MP">MP</option>
+                <option value="Mumbai">Mumbai</option>
+                <option value="uttar Predesh">uttar Predesh</option>
+                <option value="other">other</option>
+            </select>
+            <br><br>
+            <label><b>D.O.B</b></label>
+            <input type="date" value="D.O.B" class="box">
+            <br><br>
+            <label><b>from where you know about us:</b></label>
+            <select>
+                <option value="social media">social media</option>
+                <option value="newspaper">newspaper</option>
+                <option value="other">other</option>
+            </select>
+            <br><br>
+            
+            
+            <input  type="submit" id="sub">
+            
+        </div>
+    </form>
+
+
+
+
+    <script src="learning.js">
+
+    </script>
+</body>
+
+</html>
+
+
+
+
+
+
+
+

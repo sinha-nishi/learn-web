@@ -73,22 +73,22 @@ img{
     height:200px
 }
 
-.nav{
+/*.nav{
     color: black;
     font-size: 1.5em;
     font-family: Arial, Helvetica, sans-serif;
     align-items: center;
-gap: 250px;
+gap: 240px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
     position: relative;
     margin: 300px;
-    right: 280px;
-bottom: 100px;
+    right: 225px;
+bottom: 100px;*/
 
-}
+
 
 
 .nav:hover {

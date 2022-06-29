@@ -19,7 +19,8 @@ float: flex;
     img{
         
     
-        width:500px;height:350px
+         width:100%;
+         height: auto;
     
     }
 
@@ -29,13 +30,17 @@ float: flex;
         margin-left: 40px;
         margin-right: 40px ;
         
+        
+        
     
     }
 
     body{margin: auto;
-        width: 500px;
+          max-width: 500px;
         background-color:white;
-        border:solid rgba(255, 255, 255, 0.76)
+        border:solid rgba(255, 255, 255, 0.76);
+    
+               
         
     
     }
@@ -46,7 +51,8 @@ float: flex;
     }
 
     hr{
-        width: 600px;
+        
+        width: 500px;
         height: 9px;
         background-color:rgb(148, 226, 148)
     }
@@ -71,6 +77,21 @@ float: flex;
           list-style-type:circle;
           list-style-position: inside;
   }
+
+
+  /* if the screen is 600px or less, change the background color and font*/
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+      font-size:x-small;
+    }
+  }        
+
+    
+
+    
+
+  
     
     
 

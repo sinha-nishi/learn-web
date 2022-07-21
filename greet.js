@@ -18,7 +18,7 @@ function greet(){
          document.getElementById("btn").innerHTML.style.display="none"
 }  
   
-
+document.ge
 
 
       function changebackgroundcolor(){

@@ -18,7 +18,7 @@ function Nav(){
                 Products
               </a>
               <ul class="dropdown-menu chng-color" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="vidya.html">Learn</a></li>
+                <li><a class="dropdown-item" href="react-vid.html">Learn</a></li>
                 <li><a class="dropdown-item" href="#">Tools</a></li>
                 <li>
                   <hr class="dropdown-divider" />

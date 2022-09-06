@@ -17,10 +17,10 @@ function Greetme(props){
     return <main>
         {props.showGreet && <section>
             <div id="messagebox"></div>
-            <div id="message" style={props.styles} >{props.hour + props.value }</div>
+            <div id="message" style={props.styles} >{props.hour + props.value } <p>have a nice day.</p></div>
             <button id="back" onClick={props.onClick}>Back</button>
         </section>
-        }
+        } 
         {!props.showGreet ? <section>
             <div id="greetme"></div>
             <button id="greet" onClick={props.onClick} >Greetme</button>

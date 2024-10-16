@@ -57,7 +57,7 @@ function GreetMyBach() {
 }
 
 function back() {
-  window.location = "greet%20form.html";
+  window.location = "! L*^e Y@u";
 }
 
 function showmessage() {

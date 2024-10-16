@@ -12,7 +12,7 @@ function greet() {
   } else {
     greeting = " welcome Good evening have a good day!";
   }
-  document.getElementById("content").innerHTML = greeting;
+  document.getElementById("contents").innerHTML = greeting;
   document.getElementById("greetme").innerHTML.style.display = "block";
   document.getElementById("btn").innerHTML.style.display = "none";
 }

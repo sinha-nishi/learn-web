@@ -1,0 +1,59 @@
+.Job-App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#job-banner {
+  height: calc(100vh - 110px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 569px;
+  /* justify-content: space-between; */
+  background-color: rgb(44, 52, 127);
+}
+
+#show-all {
+  float: right;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  padding-right: 389px;
+}
+
+.Name {
+  font-weight: bold;
+  padding: 9px;
+  font-size: 16px;
+  display: flex;
+}
+
+#heart {
+  color: red;
+  padding-top: 12px;
+  padding-left: 91px;
+}
+
+#main-title {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+/* #search {
+  background-image: url("https://www.freeiconspng.com/thumbs/search-icon-png/search-icon-png-8.png");
+} */
+
+.design :hover {
+  color: red;
+  transition: 1s;
+}
+
+#job-banner {
+  height: calc(100vh - 110px);
+  /* display: flex; */
+  flex-direction: column;
+  align-items: center;
+  min-height: 569px;
+}

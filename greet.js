@@ -54,6 +54,10 @@ function GreetMyBach() {
   console.log(
     "mere ko to nhi bhoolenge honge na , kbhi na kisi moment pr to yaad krte hounge na , or bhi bht kuch , lgta hau , dur to nhi jayenge na mere se"
   );
+  console.log('mere ko aapka bht yaad aata hai bacha , sochta hun kese baat krun aapse , aapko mera yaad nhi aata bacha , bht mnn krta hai mera ')
+  console.log('aapse baat krne ka , aaj bhi main wha se aaya to hamesha aapka call aata tha , ki pohuch gela na acha se, or train main bhi , but iss baar mhi puche mere ko bura lga bht:(:(')
+  console.log('bharosa tha ki aap krenge , aaj or kl dono din , phn ka wait kia aapke , mnn main sawal bhi uth rha tha , ki shayad, nhi baat krna hoga mere se ab')
+  console.log('reply jarur kariyega mnn hai aapse baat krne ka bht saara plz :(:( mnn bhtt dukhi hota hai :(:(')
 }
 
 function back() {

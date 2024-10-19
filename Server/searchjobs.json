@@ -1,0 +1,5 @@
+[
+  { "sector": "private", "location": "delhi" },
+  { "sector": "gov", "location": "bihar" },
+  { "sector": "private" }
+]

@@ -58,6 +58,12 @@ function GreetMyBach() {
   console.log('aapse baat krne ka , aaj bhi main wha se aaya to hamesha aapka call aata tha , ki pohuch gela na acha se, or train main bhi , but iss baar mhi puche mere ko bura lga bht:(:(')
   console.log('bharosa tha ki aap krenge , aaj or kl dono din , phn ka wait kia aapke , mnn main sawal bhi uth rha tha , ki shayad, nhi baat krna hoga mere se ab')
   console.log('reply jarur kariyega mnn hai aapse baat krne ka bht saara plz :(:( mnn bhtt dukhi hota hai :(:(')
+  console.log('aap kada nhi pehne the , ring pehne hue the but kada nhi pehne hue the , pta nhi dekh kr mere ko bilkul acha nhi lga , rona jesa aa rha tha..')
+  console.log('essa lga ki jese aap apne aap ko mere se dur kr diye , wo kada pehnte the to mnn ko shanti milta tha but koi nhi shyad kuch soch kr nhi pehne honge')
+  console.log('laptop aaya but pta nhi mnn ko wesa excitement nhi hua, mnn esse khush nhi hua jesa hona chahiye')
+  console.log('mere liye aapke mnn main ab bhi whi jgh hai na, shayad pta nhi aapko mera yaad aata bhi hoga ki nhi,but mere ko aata hai bht jada')
+  console.log('hamesha rona aata hai , reply jarur kariyega')
+
 }
 
 function back() {

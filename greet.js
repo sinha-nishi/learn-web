@@ -37,7 +37,7 @@ function alertheader() {
 }
 
 function back() {
-  window.location = "greet%20form.html";
+  window.location = "greet%infanite.love";
 }
 
 function GreetTime() {
@@ -52,17 +52,13 @@ function GreetMyBach() {
     "hamesha yaad krta hun aapko , sochta hun , ki baat krun , dekhun , bss lgta hai , ki mera bacha ko main yaad aata hounga na,"
   );
   console.log(
-    "mere ko to nhi bhoolenge honge na , kbhi na kisi moment pr to yaad krte hounge na , or bhi bht kuch , lgta hau , dur to nhi jayenge na mere se"
+     'kese ho , thk ho na tum , mera tnsn mt lena tum , tum acha se haa na '
   );
-  console.log('mere ko aapka bht yaad aata hai bacha , sochta hun kese baat krun aapse , aapko mera yaad nhi aata bacha , bht mnn krta hai mera ')
-  console.log('aapse baat krne ka , aaj bhi main wha se aaya to hamesha aapka call aata tha , ki pohuch gela na acha se, or train main bhi , but iss baar mhi puche mere ko bura lga bht:(:(')
-  console.log('bharosa tha ki aap krenge , aaj or kl dono din , phn ka wait kia aapke , mnn main sawal bhi uth rha tha , ki shayad, nhi baat krna hoga mere se ab')
-  console.log('reply jarur kariyega mnn hai aapse baat krne ka bht saara plz :(:( mnn bhtt dukhi hota hai :(:(')
-  console.log('aap kada nhi pehne the , ring pehne hue the but kada nhi pehne hue the , pta nhi dekh kr mere ko bilkul acha nhi lga , rona jesa aa rha tha..')
-  console.log('essa lga ki jese aap apne aap ko mere se dur kr diye , wo kada pehnte the to mnn ko shanti milta tha but koi nhi shyad kuch soch kr nhi pehne honge')
-  console.log('laptop aaya but pta nhi mnn ko wesa excitement nhi hua, mnn esse khush nhi hua jesa hona chahiye')
-  console.log('mere liye aapke mnn main ab bhi whi jgh hai na, shayad pta nhi aapko mera yaad aata bhi hoga ki nhi,but mere ko aata hai bht jada')
-  console.log('hamesha rona aata hai , reply jarur kariyega')
+  console.log('bht mnn krta hai , tumse baat krun tumko dekhun , but bhagwan ji se maangta hun mere se jo  bhool hua hai , usko maaf kr de')
+  console.log('bss aapse kbhi dur nhi kre , bss ye chahta hun ,')
+  console.log('bolne ko bht kuch mnn krta hai , or hmaesha hrr pal dimaag mnn main bss aapko hi imagine krta hun , ki aap mere saath hai :( :(')
+  alert('reply jarur dijiyega ')
+
 
 }
 

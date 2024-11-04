@@ -18,8 +18,5 @@ let d=a;
    }
     greet();
 
-   function alertheader(){
-      alert("hello")
-      console.log("hello")         
-   }
+  
    
